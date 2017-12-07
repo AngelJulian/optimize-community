@@ -1,0 +1,262 @@
+html, body{
+	margin: 0px;
+	padding: 0px;
+}
+.container{
+	background-color:whitesmoke;
+	height: 700px;
+}
+.background-circle{
+	font-size: 46px;
+	font-weight: 900;
+	opacity: 0.1;
+	color: lightgrey;
+}
+.fa-circle o{
+	margin-top:5%;
+}
+.fa-question{
+	margin-left: 30%;
+	margin-top:-5%;
+}
+.card{
+	height: 500px;
+	box-shadow: 0px 10px 20px gainsboro;
+}
+.arrow{
+	font-size: 28px;
+	padding: 10px;
+}
+.fa-align-right{
+	float: right;
+	padding: 10px;
+}
+.background{
+	border:none;
+	width: 30%;
+	font-weight:bold;
+	font-size: 12px;
+	color:gainsboro;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 100%;
+}
+.bg-one{
+	margin-top: 7%;
+	width: 35%;
+}
+.bg-one .mycircle{
+	color: blue;
+	opacity: 2;
+	font-size: 36px;
+	font-weight:bold;
+}
+.bg-two{
+	margin-top: -22%;
+	overflow: hidden;
+}
+.bg-two .mycircle{
+	color: blue;
+	opacity: 2;
+	font-size: 28px;
+	font-weight: bold;
+}
+.bg-three{
+	margin-top: -21%;
+	overflow: hidden;
+}
+.bg-three .mycircle{
+	color: blue;
+	opacity: 2;
+	font-size: 28px;
+	font-weight:bold;
+}
+.main{
+	text-align: center;
+	padding-left: 10%;
+	padding-right: 15%;
+}
+h1{
+	padding-top: 20px;
+	font-size: 16px;
+	font-weight: 800;
+}
+small{
+	font-family: cursive;
+	font-size: 12px;
+	font-weight: 700;
+}
+.btn-primary{
+	width: 70%;
+	font-size: 12px;
+	margin-top: 10%;
+	margin-bottom: 10%;
+	box-shadow: 0px 0px 20px lightblue;
+}
+.left-para{
+	font-size: 10px;
+	color: lightgrey;
+}
+img{
+	max-width:10%;
+}
+.card-footer{
+	border:none;
+	background-color: #fff;
+}
+.links{
+	margin-top: -15%;
+}
+h6{
+	font-size: 9px;
+	color:lightgrey;
+}
+.active{
+	color: blue;
+}
+.fa-user{
+	color: darkgrey;
+	float: right;
+	margin-top: -10%;
+	margin-left: 5%;
+}
+.message{
+	margin-top: -25%;
+	margin-left:70%;
+}
+#message{
+	margin-top: -13%;
+	margin-left:70%;
+}
+.bell{
+	margin-left: 50%;
+	margin-top: -25%;
+}
+#bell{
+	margin-left: 45%;
+	margin-top: -14%;
+}
+.oasis{
+	margin-left: 20%;
+	margin-top: -25%;
+}
+#oasis{
+	margin-left: 22%;
+	margin-top: -13%;
+}
+.wisdom{
+	margin-top: 10%;
+}
+.vl{
+	border-left: 2px solid gainsboro;
+	height: 70px;
+	font-size: 12px;
+	font-family: monospace;
+	font-weight: 600;
+	margin-top: 15px;
+	padding-left: 5%;
+	text-align: left;
+}
+.badge{
+	width: 7%;
+	font-size: 10px;
+	float: left;
+	border-radius: 100%;
+}
+h2{
+	font-family: cursive;
+	font-size: 13px;
+	text-align: left;
+	padding-top: 30px;
+	font-weight: 700;
+}
+.middle-two{
+	font-family:monospace;
+	float: left;
+	color: lightgrey;
+	font-weight: 500;
+	font-size:12px;
+	font-weight: 100;
+}
+.middle-links{
+	font-size: 12px;
+	margin-top: 30px;
+}
+.fa-search{
+	color: lightgrey;
+	font-size: 10px;
+	opacity: 0.3;
+	font-weight: 100;
+}
+.fa-hand-o-up{
+	color: lightgrey;
+	font-weight: 800;
+}
+.middle-main{
+	max-width: 25%;
+}
+.middle6{
+	font-family: monospace;
+	font-weight: 800;
+	color: black;
+}
+.left-middle{
+	width: 20%;
+	float: left;
+	height: 2px;
+}
+.right-vl{
+	height: 25px;
+	font-size: 10px;
+}
+.right-middle{
+	height: 3px;
+	width: 80%;
+	border: none;
+	background-color:#f2f2f2;
+	float: right;
+}
+.fa-angle-right{
+	float: right;
+}
+.right-links{
+	margin-top: 100px;
+}
+.right-main{
+	max-width: 80%;
+}
+#right-hand{
+	font-size: 10px;
+	opacity: 0.3;
+	font-weight: 100;
+}
+.right6{
+	font-family: monospace;
+	font-weight: 800;
+	color: black;
+}
+.badge-light{
+	background-color: transparent;
+	margin-left: -10%;
+}
+.right-o{
+	float: right;
+	opacity: 0.1;
+	font-size: 36px;
+	font-weight: 800;
+}
+.left-right{
+	width: 80%;
+	float: left;
+	height: 2px;
+}
+.right-right{
+	height: 3px;
+	width: 20%;
+	border:none;
+	background-color:#f2f2f2;
+	float: right;
+}
+#middle-btn{
+	margin-top: 5%;
+}
